@@ -36,12 +36,17 @@ Welcome to **The Drafting Board**—where complex operational challenges are sys
 
 ---
 
-### 📈 GitHub Metrics
+### 📊 Professional Impact & Delivery
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheDraftingBoard&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDraftingBoard&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Top Languages" />
+
+| Metric / Focus | Description |
+| :--- | :--- |
+| **⏱️ Time Reduction** | Slashed manual reporting cycles by up to **80%** via VBA automation |
+| **📉 Data Accuracy** | Minimized human error through standardized validation and clean pipelines |
+| **🏃‍♂️ Delivery Velocity** | Successfully managed projects from concept to deployment using **Agile/Scrum** |
+| **📊 Reporting Clarity** | Built executive-level dashboards for streamlined decision-making |
+
 </div>
 
 ---
