@@ -10,7 +10,7 @@
 ---
 
 ### 🚀 EXECUTIVE BLUEPRINT
-Welcome to **The Drafting Board**—where complex operational challenges are systematically converted into streamlined, automated, and data-driven solutions. As a Technical Project Manager and Automation Specialist, I bridge the gap between chaotic datasets and executive-ready execution.
+Welcome to **The Drafting Board**—where complex operational challenges are systematically converted into streamlined, automated, and data-driven solutions. As a Technical Project Specialist and Automation Specialist, I bridge the gap between chaotic datasets and executive-ready execution.
 
 * 📈 **Data-Driven Decision Making:** Designing dynamic reporting architectures that turn raw data into crystal-clear business insights.
 * ⚡ **Workflow Automation:** Building heavy-duty Excel VBA macros that slash processing time from hours to seconds and eliminate human error.
