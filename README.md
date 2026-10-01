@@ -3,8 +3,6 @@
 # 📐 THE DRAFTING BOARD 📐
 ### *Architecting Automated Workflows | Scaling Data Intelligence | Driving Agile Velocity*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/biprojit-h-3b181a34a)
-
 </div>
 
 ---
